@@ -1,0 +1,2 @@
+# myinit
+emacs_init
